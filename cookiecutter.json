@@ -20,6 +20,6 @@
   "use_async": "n",
   "use_drf": "n",
   "use_celery": "n",
-  "ci_tool": ["None", "Github"],
+  "ci_tool": ["None", "Github", "Gitlab"],
   "debug": "n"
 }
