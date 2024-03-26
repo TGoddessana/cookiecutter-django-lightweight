@@ -17,11 +17,9 @@
   "timezone": "UTC",
   "windows": "n",
   "use_docker": "n",
-  "postgresql_version": ["16", "15", "14", "13", "12"],
   "use_async": "n",
   "use_drf": "n",
   "use_celery": "n",
   "ci_tool": ["None", "Github"],
-  "keep_local_envs_in_vcs": "y",
   "debug": "n"
 }
